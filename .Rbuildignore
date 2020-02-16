@@ -1,0 +1,6 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^data-raw$
+^LICENSE\.md$
+^inst/extdata/ES2017.7z$
+^inst/extdata/ES2017.txt$
